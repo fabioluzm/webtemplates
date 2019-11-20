@@ -1,2 +1,2 @@
 # 2019 Collection
-- http://dev.ramlagos.com/ramtemplates/2019
+- https://demo.themewagon.com/preview/template-collection-2019-free-html5-templates
