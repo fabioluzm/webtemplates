@@ -39,6 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <img src="https://github.com/fabioluzm/webtemplates/blob/57bc2bf3b02a66ab7bc3947a4ecb18b300c2bbb0/docs/d4yctkm-a258579e-db6b-46a3-837a-1561910afa6f.jpg?raw=true" width="40" height="40">
 
 
-![img](../assets/img/btn.png?raw=true)
+![img](assets/img/btn.png?raw=true)
 
 ![img](https://github.com/AlticeLabsProjects/live-urban/blob/9f13bb6e9202b56413ca89e290635fa5bf27fc4e/docs/assets/img/dashboard.png?raw=true)
